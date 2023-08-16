@@ -18,7 +18,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=0xOptimusPrime&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
-- 🔭 We are currently working on [developing new blockchain](info@coinhunterstr.com)
+- 🔭 We are currently working on [developing new blockchain](https://coinhunterstr.com/)
 
 - 🌱 We are currently learning **Blokchain**
 
